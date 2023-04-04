@@ -1,3 +1,3 @@
-# MAEF3-Net
+# MAEF-Net
 
-MLP based Attention for Feature Enhancement in U-Net based Medical Image Segmentation Networks
+MAEF-Net: MLP Attention for Feature Enhancement in U-Net based Medical Image Segmentation Networks
